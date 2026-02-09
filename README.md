@@ -6,14 +6,14 @@ Repository pattern, Fluent Validation, Swagger API documentation, and Unit Testi
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this project is to build a small but production-style backend system
 that clearly demonstrates enterprise backend patterns and best practices.
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 The solution follows **Clean Architecture**, ensuring:
 
@@ -36,7 +36,7 @@ The solution follows **Clean Architecture**, ensuring:
 
 ---
 
-## 🧠 Domain Design
+##  Domain Design
 
 ### Entities
 
@@ -55,18 +55,18 @@ Business rules are enforced in the **Domain and Application layers**.
 
 ---
 
-## 🔁 CQRS Implementation
+## CQRS Implementation
 
 The project uses **CQRS (Command Query Responsibility Segregation)**.
 
-### ✏ Commands (Write Side)
+### Commands (Write Side)
 
 - `CreateCustomerCommand`
 - `CreateOrderCommand`
 
 Handled using **MediatR** and validated using **FluentValidation**.
 
-### 📖 Queries (Read Side)
+### Queries (Read Side)
 
 - `GetCustomerByIdQuery`
 - `GetOrdersByCustomerIdQuery`
@@ -75,7 +75,7 @@ Queries return read-optimized DTOs and use EF Core `Include` for relationships.
 
 ---
 
-## 🗄 Data Access Pattern
+## Data Access Pattern
 
 ### Repository Pattern
 
@@ -92,7 +92,7 @@ Repositories are accessed **only through UnitOfWork**.
 
 ---
 
-## 🧪 Unit Testing
+## Unit Testing
 
 Unit tests are written using:
 
@@ -109,7 +109,7 @@ Tests validate application logic without database dependency.
 
 ---
 
-## 📘 Validation
+## Validation
 
 **FluentValidation** is used for validating commands.
 
@@ -121,7 +121,7 @@ Examples:
 
 ---
 
-## 🌐 API & Swagger
+## API & Swagger
 
 Swagger is enabled in **Development mode**.
 
@@ -137,7 +137,7 @@ Swagger URL:
 
 ---
 
-## 🗃 Database
+## Database
 
 - SQL Server (LocalDB)
 - Entity Framework Core (Code First)
@@ -146,7 +146,7 @@ Swagger URL:
 
 ---
 
-## ▶ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository
 2. Open the solution in Visual Studio
