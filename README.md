@@ -31,7 +31,7 @@ The solution follows **Clean Architecture**, ensuring:
 
 ---
 
-## 📂 Solution Structure
+## Solution Structure
 
 
 ---
@@ -159,7 +159,7 @@ Swagger URL:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates real-world backend development practices including
 Clean Architecture, CQRS, EF Core, validation, Swagger documentation, and unit testing.
