@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "dgSpecHash": "n12p+rJT/0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paris\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\deleporter\\0.1.9.15416\\deleporter.0.1.9.15416.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\deleporter.client\\0.1.9.15416\\deleporter.client.0.1.9.15416.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\deleporter.server\\0.1.9.15416\\deleporter.server.0.1.9.15416.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentassertions\\8.8.0\\fluentassertions.8.8.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentassertions.analyzers\\0.34.1\\fluentassertions.analyzers.0.34.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentassertions.json\\8.0.0\\fluentassertions.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentassertions.web\\1.9.5\\fluentassertions.web.1.9.5.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.1\\microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\moq\\4.2.1510.2205\\moq.4.2.1510.2205.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\moqinjectioncontainer\\1.9.0\\moqinjectioncontainer.1.9.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "C:\\Users\\paris\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: FluentAssertions.Web 1.9.5 requires FluentAssertions (>= 6.5.1 && < 8.0.0) but version FluentAssertions 8.8.0 was resolved.",
+      "projectPath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "libraryId": "FluentAssertions",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Deleporter 0.1.9.15416' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "libraryId": "Deleporter",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Deleporter.Client 0.1.9.15416' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "libraryId": "Deleporter.Client",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Moq 4.2.1510.2205' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "libraryId": "Moq",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'MoqInjectionContainer 1.9.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paris\\source\\repos\\MiniOrderManagement\\MiniOrderManagement.Tests\\MiniOrderManagement.Tests.csproj",
+      "libraryId": "MoqInjectionContainer",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

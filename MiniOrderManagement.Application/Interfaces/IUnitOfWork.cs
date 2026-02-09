@@ -1,0 +1,12 @@
+﻿using MiniOrderManagement.Application.Interfaces.Repositories;
+
+namespace MiniOrderManagement.Application.Interfaces
+{
+    public interface IUnitOfWork
+    {
+        ICustomerRepository Customers { get; }
+        IOrderRepository Orders { get; }
+
+        Task<int> SaveChangesAsync();
+    }
+}
